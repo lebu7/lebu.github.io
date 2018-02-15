@@ -27,6 +27,7 @@ a:hover, a:visited, a{
 	z-index: 333;
 	margin-left:4px;
 	margin-right:4px;
+	overflow-x:hidden;
 
 }
 .form-horizontal label{
