@@ -88,7 +88,9 @@ a:hover, a:visited, a{
 
 }
 .header-row{
-	margin: 0;
+	margin-left:4px;
+	margin-right:5px;
+	overflow-x:hidden;
 	padding: 0;
 }
 .top-header navbar-brand{
