@@ -25,6 +25,8 @@ a:hover, a:visited, a{
 	position: fixed;
 	width: 100%;
 	z-index: 333;
+	margin-left:4px;
+	margin-right:4px;
 
 }
 .form-horizontal label{
